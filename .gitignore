@@ -154,6 +154,7 @@ project/plugins/project/
 .vscode/
 project/
 .history/
+.idea/
 
 ### Scala ###
 
