@@ -155,6 +155,8 @@ project/plugins/project/
 project/
 .history/
 .idea/
+.bsp/
+.bloop/
 
 ### Scala ###
 
