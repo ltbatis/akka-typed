@@ -4,7 +4,7 @@ version := "0.1"
 
 scalaVersion := "2.13.7"
 
-mainClass in (Compile, run) := Some("part2actors.ActorState")
+mainClass in (Compile, run) := Some("part2actors.ChildActors")
 
 val akkaVersion = "2.6.18"
 val scalaTestVersion = "3.2.9"
